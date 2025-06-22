@@ -54,3 +54,8 @@ Canvas destaca por su interfaz intuitiva y accesibilidad, ideal para institucion
 - Moodle Docs. (2024). [https://docs.moodle.org](https://docs.moodle.org)
 - Instructure. (2024). *Canvas LMS Guide*. [https://community.canvaslms.com](https://community.canvaslms.com)
 - Blackboard Help. (2024). [https://help.blackboard.com](https://help.blackboard.com)
+
+## Integrantes
+- Víctor Carrión.
+- Rosileth Flores.
+- Aracelis González.
